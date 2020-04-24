@@ -44,6 +44,7 @@ a:hover {
     display: block;
     margin-right: auto;
     color: white;
+    letter-spacing: 20px;
 }
 .nav li {
   padding: 5px 10px 10px 10px;
@@ -203,5 +204,17 @@ a.social:hover {
     margin: 40px auto;
   }
 
+}
+.card-title {
+    text-align: center;
+    letter-spacing: 10px;
+    border: black 2px solid;
+    border-radius: 20px;
+
+}
+
+.page-title {
+    letter-spacing: 20px;
+    
 }
 
